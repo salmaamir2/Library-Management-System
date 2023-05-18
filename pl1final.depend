@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1591026461 source:/home/reham/reham/c/pl1final/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1591032506 source:c:\users\ahmed\downloads\pl_task\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
